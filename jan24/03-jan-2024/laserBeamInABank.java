@@ -3,6 +3,7 @@ public class laserBeamInABank {
     public static void main(String[] args) {
         /*
          * NameOfTheProblem - 2125. Number of Laser Beams in a Bank
+         * Date :- 03-jan-2024
          * Anti-theft security devices are activated inside a bank. You are given a 0-indexed binary string array bank representing the floor plan of the bank, which is an m x n 2D matrix. bank[i] represents the ith row, consisting of '0's and '1's. '0' means the cell is empty, while'1' means the cell has a security device.
 
 There is one laser beam between any two security devices if both conditions are met:
