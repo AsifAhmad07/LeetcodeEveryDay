@@ -1,9 +1,11 @@
+import java.util.Arrays;
+
 package 17-jan-2024;
 
 public class numberOfOccurance {
     /*
      * Name Of The Problem :- 1207. Unique Number of Occurrences
-     * 
+     * Date :- 17-jan-2024
      * 
      * Given an array of integers arr, return true if the number of occurrences of each value in the array is unique or false otherwise.
 
