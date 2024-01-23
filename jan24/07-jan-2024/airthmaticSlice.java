@@ -3,6 +3,7 @@ package 07-jan-2024;
 public class airthmaticSlice {
     /*
      * Name Of The Problem :- 446. Arithmetic Slices II - Subsequence
+     * Date :- 07-jan-2024
      * Given an integer array nums, return the number of all the arithmetic subsequences of nums.
 
 A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.
