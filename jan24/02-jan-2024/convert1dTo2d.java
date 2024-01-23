@@ -5,7 +5,8 @@ package 02-jan-2024;
 
 public class convert1dTo2d {
     /*
-     * 2610. Convert an Array Into a 2D Array With Conditions
+     * Name Of The Problem :-   2610. Convert an Array Into a 2D Array With Conditions
+     * Date :- 02-jan-2024
      * Medium
 701
 29
