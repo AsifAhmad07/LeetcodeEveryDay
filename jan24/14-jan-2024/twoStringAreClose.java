@@ -1,9 +1,11 @@
+import java.util.Arrays;
+
 package 14-jan-2024;
 
 public class twoStringAreClose {
     /*
      * Name Of The Problem :- 1657. Determine if Two Strings Are Close
-     * 
+     * Date :- 14-jan-2024
      * Two strings are considered close if you can attain one from the other using the following operations:
 
 Operation 1: Swap any two existing characters.
