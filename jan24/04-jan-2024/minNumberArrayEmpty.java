@@ -3,6 +3,7 @@ package 04-jan-2024;
 public class minNumberArrayEmpty {
     /*
      * NameOfTheProblem :- 2870. Minimum Number of Operations to Make Array Empty
+     * Date :- 04-jan-2024
      * You are given a 0-indexed array nums consisting of positive integers.
 
 There are two types of operations that you can apply on the array any number of times:
