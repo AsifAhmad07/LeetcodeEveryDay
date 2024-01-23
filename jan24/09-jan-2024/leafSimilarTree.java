@@ -1,8 +1,11 @@
+import javax.swing.tree.TreeNode;
+
 package 09-jan-2024;
 
 public class leafSimilarTree {
     /*
      * Name Of The Problem :- 872. Leaf-Similar Trees
+     * Date :- 09-jan-2024
      * Consider all the leaves of a binary tree, from left to right order, the values of those leaves form a leaf value sequence.
 
 
