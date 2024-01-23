@@ -1,9 +1,12 @@
+import java.util.Stack;
+
 package 20-jan-2024;
 
 public class sumOfSubarrayMinimums {
 
     /*
      * Name Of The Problem :- 907. Sum of Subarray Minimums
+     * Date :- 20-jan-2024
      * Given an array of integers arr, find the sum of min(b), where b ranges over every (contiguous) subarray of arr. Since the answer may be large, return the answer modulo 109 + 7.
 
  
