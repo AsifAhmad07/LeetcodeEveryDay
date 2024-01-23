@@ -3,6 +3,7 @@ package 23-jan-2024;
 public class maximumLengthOfConcentretedString {
     /*
      * Name Of The Problem :- 1239. Maximum Length of a Concatenated String with Unique Characters
+     * Date :- 23-jan-2024
      * 
      * You are given an array of strings arr. A string s is formed by the concatenation of a subsequence of arr that has unique characters.
 
