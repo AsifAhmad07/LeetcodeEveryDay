@@ -4,7 +4,7 @@ public class divideArrayintoArraysWithMaxDifference {
 
     Name Of The Problem :- 2966. Divide Array Into Arrays With Max Difference
 
-    Date :- 01-feb-2024
+    Date :- 01-02-2024
 
 
 
