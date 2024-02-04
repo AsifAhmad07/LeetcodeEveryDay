@@ -72,7 +72,7 @@ class Solution {
 
             mp.put(ch_j, mp.getOrDefault(ch_j, 0) - 1);
 
-            while (requiredCount == 0) { // try to shrink the window
+            while (requiredCount == 0) { 
                 if (minWindow > j - i + 1) {
                     minWindow = j - i + 1;
                     minStart = i;
@@ -85,7 +85,7 @@ class Solution {
                 i++;
             }
 
-            j++; // Don't ever forget this :-)
+            j++; 
         }
 
         return minWindow == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minWindow);
