@@ -50,9 +50,9 @@ class Solution {
                 int j = i + L - 1;
 
                 if (i == j) {
-                    t[i][i] = true; // Single characters are palindrome
+                    t[i][i] = true; 
                 } else if (i + 1 == j) {
-                    t[i][j] = (s.charAt(i) == s.charAt(j)); // Strings of 2 Length
+                    t[i][j] = (s.charAt(i) == s.charAt(j)); 
                 } else {
                     t[i][j] = (s.charAt(i) == s.charAt(j) && t[i + 1][j - 1]);
                 }
