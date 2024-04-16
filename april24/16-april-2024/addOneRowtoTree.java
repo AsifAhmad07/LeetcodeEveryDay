@@ -1,6 +1,6 @@
 package 16-april-2024;
 
-public class 62addOneRowtoTree {
+public class addOneRowtoTree {
 
 
 
