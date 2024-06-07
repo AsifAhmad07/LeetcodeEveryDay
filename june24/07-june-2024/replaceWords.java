@@ -15,7 +15,7 @@ Return the sentence after the replacement.
 
  
 
-Example 1:
+Example 1:-
 
 Input: dictionary = ["cat","bat","rat"], sentence = "the cattle was rattled by the battery"
 Output: "the cat was rat by the bat"
