@@ -45,7 +45,7 @@ Input: n = 4, queries = [[0,3],[0,2]]
 
 Output: [1,1]
 
-Explanation:
+Explanation:-
 
 
 
